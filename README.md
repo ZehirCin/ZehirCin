@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Zehir! 👋</h1>
+<h1 align="center">Hi there, I'm AmmAr ElsAwy! 👋</h1>
 <h3 align="center">Full Stack Web Developer | E-commerce & SEO Specialist | Digital Growth</h3>
 
 <p align="center">
